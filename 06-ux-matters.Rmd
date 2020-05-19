@@ -5,11 +5,11 @@
 Let's state the truth: no matter how complex and innovative your back-end is, your application is bad if your User Experience (UX) is bad. 
 That's the hard truth. 
 
-We have a natural tendency, as R-coders, to be focused on the back-end, i.e the server part of the application
-^[aka what happens in the server side of a Shiny App]
-. 
-Which is perfectly normal—chances are you did not come to R to design front-ends
-^[Front-end are the visual parts of your application, the one your user interacts with, as opposed to the back-end, which is what is installed on the server, the part the end user does not see. In Shiny, front-end is what correspond to the UI, back-end to the server.
+We have a natural tendency, as R-coders, to be focused on the back-end, i.e., the server part of the application
+^[e.g., what happens on the server side of a Shiny App]
+, 
+which is perfectly normal—chances are you did not come to R to design front-ends
+^[The front-end is the visual part of your application - the one your user interacts with - as opposed to the back-end, which is what is installed on the server, the part the end user does not see. In Shiny, front-end is what corresponds to the UI, while back-end, to the server.
 ]. 
 
 However, if people can not understand how to use your application, or if your application front-end does not work at all, your application is not successful, no matter how innovative and incredible the computation algorithms in the back-end are.
